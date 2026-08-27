@@ -53,8 +53,8 @@
 <h3 align="center" style="color: #5D6D7E;">📊 GitHub Analytics</h3>
 <div align="center">
   <!-- Layer 1: Main Stats + Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SulistiyoJanuar&show_icons=true&theme=transparent&hide_border=true&bg_color=ffffff00&title_color=5D6D7E&icon_color=7F8C8D&text_color=2C3E50&rank_icon=percentile&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulistiyoJanuar&layout=donut&theme=transparent&hide_border=true&bg_color=ffffff00&title_color=5D6D7E&text_color=2C3E50&size_weight=0.5&count_weight=0.5" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SulistiyoJanuar&show_icons=true&theme=transparent&hide_border=true&bg_color=ffffff00&title_color=5D6D7E&icon_color=7F8C8D&text_color=2C3E50&rank_icon=percentile&include_all_commits=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SulistiyoJanuar&layout=donut&theme=transparent&hide_border=true&bg_color=ffffff00&title_color=5D6D7E&text_color=2C3E50&size_weight=0.5&count_weight=0.5" width="48%" />
 </div>
 
 <br/>
